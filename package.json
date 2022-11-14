@@ -12,9 +12,8 @@
   },
   "dependencies": {
     "gatsby": "^2.2.0",
-    "gatsby-remark-images": "^7.0.0",
+    "gatsby-remark-images": "^6.9.0",
     "gatsby-theme-garden": "^0.1.66",
-    "node": "^19.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
