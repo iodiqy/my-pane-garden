@@ -9,8 +9,8 @@ const ReferencesBlock = ({ references }) => {
       <p>
       If this scribble resonated with you in any way, I would love to hear from you. 
       You can <a href="mailto:iodiqy@gmail.com">email me</a> or 
-      browse through <a href="https://vmteam.kz">my bio</a> to 
-      find other ways to connect with me.
+      browse through <a href="https://vmteam.kz">my blog</a> to 
+      find other content.
       </p>
     </React.Fragment>
   );
