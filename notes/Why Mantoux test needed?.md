@@ -1,0 +1,1 @@
+Mantoux test is used to *check the presence of MBT* in organism. Which usually done before vaccinating with live attenuated vaccine.

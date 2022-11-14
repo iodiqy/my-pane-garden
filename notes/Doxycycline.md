@@ -1,0 +1,1 @@
+Synthetic safer variant of tetracycline

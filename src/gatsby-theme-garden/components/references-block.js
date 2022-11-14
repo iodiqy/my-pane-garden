@@ -8,8 +8,8 @@ const ReferencesBlock = ({ references }) => {
     <React.Fragment>
       <p>
       If this scribble resonated with you in any way, I would love to hear from you. 
-      You can <a href="mailto:amit@omg.lol">email me</a> or 
-      browse through <a href="https://amitg.net">my bio</a> to 
+      You can <a href="mailto:iodiqy@gmail.com">email me</a> or 
+      browse through <a href="https://vmteam.kz">my bio</a> to 
       find other ways to connect with me.
       </p>
     </React.Fragment>
